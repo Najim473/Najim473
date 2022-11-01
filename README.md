@@ -6,7 +6,7 @@
 
 ---
 
-![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=Najim473&count_private=true&show_icons=true&theme=dark)
+![Najim's github stats](https://github-readme-stats.vercel.app/api?username=Najim473&count_private=true&show_icons=true&theme=dark)
 
 <!---
 Najim473/Najim473 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
